@@ -1,0 +1,25 @@
+{
+  "name": "team-kiwi-to-do",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomas-codes/team-kiwi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomas-codes/team-kiwi/issues"
+  },
+  "homepage": "https://github.com/thomas-codes/team-kiwi#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.22"
+  }
+}
